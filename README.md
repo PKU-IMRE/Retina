@@ -1,2 +1,2 @@
-# Retina
-TOWARDS DIGITAL RETINA IN SMART CITIES: A MODEL GENERATION, UTILIZATION AND COMMUNICATION PARADIGM
+# Digital Retina
+Supplementary material for paper "Towards Digital Retina in Smart Cities: A Model Generation, Utilization and Communication Paradigm"
